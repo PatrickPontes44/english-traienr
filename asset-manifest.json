@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/english-trainer/static/css/main.a98939ab.css",
+    "main.js": "/english-trainer/static/js/main.5b4a10fa.js",
+    "index.html": "/english-trainer/index.html",
+    "main.a98939ab.css.map": "/english-trainer/static/css/main.a98939ab.css.map",
+    "main.5b4a10fa.js.map": "/english-trainer/static/js/main.5b4a10fa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a98939ab.css",
+    "static/js/main.5b4a10fa.js"
+  ]
+}
